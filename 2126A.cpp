@@ -13,7 +13,6 @@ int solve(int a){
 int main()
 {
     int t;
-    int y;
     cin>>t;
     while(t--)
     {
